@@ -36,9 +36,9 @@ that holds the `(T, 8, 8)` downscaled by not-yet-discretized images, `action`
 that hols the `(T,)` array of action indices, and `reward` that holds the
 `(T,)` array of rewards.
 
-[Dataset download][data]
+[Dataset download][data] (121 GB)
 
-[data]: http://deeplearning.cs.toronto.edu/download/agent_eval_data
+[data]: https://archive.org/download/agenteval
 
 ## Compute the Objectives
 
